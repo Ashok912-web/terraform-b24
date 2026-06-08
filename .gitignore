@@ -1,0 +1,5 @@
+.ssh/
+.bash_history
+.cache/
+.viminfo
+.lesshst
